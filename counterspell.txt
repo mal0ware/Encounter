@@ -1,0 +1,11 @@
+counterspell/
+├── assets/
+│   ├── images/
+│   └── sounds/
+├── src/
+│   ├── __init__.py
+│   ├── counterMain.py
+│   ├── game.py
+│   └── settings.py
+├── README.md
+└── requirements.txt
