@@ -4,7 +4,7 @@
 Welcome to our fighting game, Encounter! This game is an action-packed, fast-paced fighting game where players can fight a super strong opponent!
 
 ## Features
-- **Multiple Characters**: Choose from a diverse roster of fighters.
+- **The Player**: Play as an authentic Vietnamese boy!
 - **Unique Abilities**: Each character has their own special moves and abilities.
 - **The enemy**: Battle against a strong adversary! Who will come out on top!
 - **Stunning Graphics**: Enjoy high-quality graphics and animations.
