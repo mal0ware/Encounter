@@ -12,15 +12,15 @@ Welcome to our fighting game, Encounter! This game is an action-packed, fast-pac
 ## Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/fighting-game.git
+    git clone https://github.com/mal0ware/Encounter.git
     ```
 2. Navigate to the project directory:
     ```bash
-    cd fighting-game
+    cd Encounter
     ```
 3. Install the dependencies:
     ```bash
-    npm install
+    npm install pygame
     ```
 
 ## How to Play
@@ -28,17 +28,15 @@ Welcome to our fighting game, Encounter! This game is an action-packed, fast-pac
     ```bash
     npm start
     ```
-2. Select your character.
-3. Choose your opponent.
-4. Fight and have fun!
+2. Fight and have fun!
 
 ## Contributing
 We welcome contributions! Please read our [contributing guidelines](CONTRIBUTING.md) for more details.
 
 ## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is not licensed at all. Please don't steal this bruh we worked really hard!
 
 ## Contact
-For any questions or feedback, please contact us at [email@example.com](mailto:email@example.com).
+For any questions or feedback, please contact us at [mariuscastillo0512@gmail.com](mailto:mariuscastillo0512@gmail.com).
 
 Enjoy the game!
