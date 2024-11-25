@@ -1,3 +1,5 @@
+import subprocess
+subprocess.run(['pip', 'install', 'pygame']) #installs pygame
 import pygame
 from fighter import Fighter
 
