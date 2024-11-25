@@ -3,6 +3,10 @@ subprocess.run(['pip', 'install', 'pygame']) #installs pygame
 import pygame
 from fighter import Fighter
 
+#stops python from writing .pyc files after running code
+import sys
+sys.dont_write_bytecode = True
+
 pygame.init()
 
 SCREEN_WIDTH = 1000
