@@ -29,10 +29,9 @@ screen = pygame.display.set_mode((SCREEN_WIDTH, SCREEN_HEIGHT))
 pygame.display.set_caption("enCOUNTER")
 
 # game loop
-bg_image = pygame.image.load("backgroundv2.jpg").convert_alpha()
-
-louisSheet = pygame.image.load("p1SpriteSheet.png").convert_alpha()
-louisSheet2 = pygame.image.load("p2SpriteSheet.png").convert_alpha()
+bg_image = pygame.image.load("assets/louispngs/backgroundv2.jpg").convert_alpha()
+louisSheet = pygame.image.load("assets/louispngs/p1SpriteSheet.png").convert_alpha()
+louisSheet2 = pygame.image.load("assets/louispngs/p2SpriteSheet.png").convert_alpha()
 
 #animation steps
 p1AnimationSteps = [2, 1, 1, 1, 1]
