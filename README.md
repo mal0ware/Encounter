@@ -37,6 +37,6 @@ We welcome contributions! Please read our [contributing guidelines](CONTRIBUTING
 This project is not licensed at all. Please don't steal this bruh we worked really hard!
 
 ## Contact
-For any questions or feedback, please contact us at [mariuscastillo0512@gmail.com](mailto:mariuscastillo0512@gmail.com).
+For any questions or feedback, please contact us at [maloss.network@gmail.com](mailto:mal0ss.network@gmail.com).
 
 Enjoy the game!
